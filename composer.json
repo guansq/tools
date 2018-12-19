@@ -1,0 +1,14 @@
+{
+    "name": "halobear/composer_guansq",
+    "description": "im",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guansq",
+            "email": "94600115@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
